@@ -34,9 +34,10 @@ Das wirtschaftliche Ziel ist, qualifizierte Anfragen über die kostenlose Beratu
 5. Fachliche Einordnung: KI-Kompetenz, Verantwortung, Datenschutz, Qualitätsprüfung.
 6. Lernziele: drei konkrete Kompetenzfelder.
 7. Entscheidungshilfe: Warum strukturierte Weiterbildung mehr bringt als planloses Ausprobieren.
-8. Praxisbezug: typische Situationen, in denen das Thema hilft.
-9. Passende Vertiefung: logisch verwandte interne Links.
-10. Abschluss-CTA: Beratung als natürlicher nächster Schritt, nicht als Druckmittel.
+8. Vertiefender Blick: zusätzlicher langer Abschnitt mit neuen, nicht wiederholenden Perspektiven, Beispielen oder Denkmodellen.
+9. Praxisbezug: typische Situationen, in denen das Thema hilft.
+10. Passende Vertiefung: logisch verwandte interne Links.
+11. Abschluss-CTA: Beratung als natürlicher nächster Schritt, nicht als Druckmittel.
 
 ## Interne Verlinkung
 - Jede Unterseite verlinkt mindestens sechs thematisch passende Lernpfade.
@@ -57,3 +58,11 @@ Das wirtschaftliche Ziel ist, qualifizierte Anfragen über die kostenlose Beratu
 - Sind Aussagen sachlich und überprüfbar?
 - Gibt es sichtbare KI-Muster oder Meta-Kommentare? Wenn ja: umformulieren.
 - Folgt die Beratung logisch aus dem Informationsbedarf?
+
+
+## Vertiefende Langabschnitte
+- Jede Unterseite enthält zusätzlich einen längeren Abschnitt „Vertiefender Blick“.
+- Dieser Abschnitt darf den oberen Inhalt nicht wiederholen. Er liefert neue Perspektiven: typische Denkfehler, Arbeitsweisen, Entscheidungslogik, Qualitätskriterien, Rollenverständnis oder konkrete Fachkontexte.
+- Die Inhalte bleiben sachlich korrekt und dürfen keine erfundenen Studien, Zahlen, Zertifikate oder Anbieterbehauptungen enthalten.
+- Der Abschnitt soll abwechslungsreich wirken: unterschiedliche Beispiele je nach Karriere-, Risiko-, Fachbereichs-, Strategie-, Kreativ- oder Technikthema.
+- Ziel ist Expertenniveau durch hilfreiche Einordnung, nicht durch komplizierte Sprache.
