@@ -1,19 +1,20 @@
 # Recherche- und Redaktionsregeln
 
 ## Zweck
-Diese Datei ergänzt den Arbeitskontext und sorgt dafür, dass neue Inhalte professionell, sachlich und zielgruppenorientiert wirken.
+Diese Datei ergänzt den Arbeitskontext und stellt sicher, dass Inhalte wie professionelle Website-Texte wirken: nützlich, wahr, zielgruppenbezogen und ohne erkennbare KI-Muster.
 
 ## Recherchepflicht
 - Aktuelle, rechtliche, arbeitsmarktbezogene oder spezifische fachliche Aussagen werden vor Veröffentlichung geprüft.
 - Bevorzugte Quellen: EU-Kommission, Rat der EU, OECD, offizielle Dokumentationen, Hochschulen, seriöse Branchen- und Bildungsinstitutionen.
 - Wenn keine belastbare Quelle vorliegt, wird die Aussage allgemeiner formuliert oder entfernt.
-- Die Website gibt keine Rechts-, Steuer-, Fördermittel- oder Karrieregarantieberatung. Sie bietet Orientierung und verweist auf kostenlose Erstberatung.
+- Die Website gibt keine Rechts-, Steuer-, Fördermittel- oder Karrieregarantieberatung. Sie bietet Orientierung und verweist bei Unsicherheit auf eine kostenlose Erstberatung.
 
 ## Textqualität
-- Texte sollen wie professionelle Website-Texte klingen: natürlich, präzise, semantisch logisch und frei von sichtbaren KI-Mustern.
-- Jede Seite braucht einen roten Faden: Suchintention → Problem → Orientierung → Nutzen → Grenzen → nächster Schritt.
-- Wiederholungen nur dort einsetzen, wo sie SEO oder Orientierung dienen; keine austauschbaren Floskeln.
-- Zielgruppen werden direkt angesprochen. Die Texte erklären nicht dem Auftraggeber, was getan wurde, sondern helfen Besucherinnen und Besuchern bei ihrer Entscheidung.
+- Texte richten sich an reale Leserinnen und Leser, nicht an interne Auftraggeber.
+- Keine Meta-Sprache über die Website oder den Zweck des Formulars in öffentlichen Texten.
+- Jeder Abschnitt braucht eine Aufgabe: erklären, einordnen, vergleichen, absichern oder zum nächsten Schritt führen.
+- Wiederholungen nur dort einsetzen, wo sie Orientierung schaffen; keine austauschbaren Floskeln.
+- Gute Formulierungen sprechen vom Nutzen des Themas: „Warum KI-Kompetenz für Teamleiter wichtig wird“, nicht „warum diese Seite für Teamleiter richtig ist“.
 
 ## Verifizierte Sachbasis für aktuelle Inhalte
 - EU AI Act / AI Literacy: offizielle EU-Seiten und Council-Informationen als Basis nutzen.

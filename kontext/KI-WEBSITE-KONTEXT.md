@@ -1,58 +1,59 @@
 # KI-Arbeitskontext für diese Website
 
-## Zielbild
-Diese Website positioniert „KI Akademie Navigator“ als professionelle, conversionstarke und SEO-optimierte Orientierung für **KI-Weiterbildungen**, **KI-Bootcamps** und **KI-Karrierepfade** im deutschsprachigen B2B- und Karriere-Markt.
+## Rolle der Website
+„KI Akademie Navigator“ ist eine professionelle Informations- und Orientierungsseite für KI-Weiterbildungen, KI-Bootcamps und KI-Karrierepfade. Die öffentliche Wirkung soll wie eine hochwertige Expertenplattform sein: hilfreich, fachlich sauber, ruhig im Ton und klar in der Struktur.
 
-## Primäres Conversion-Ziel
-Das wichtigste Ziel der Website ist, dass Besucherinnen und Besucher das Kontaktformular ausfüllen und Interesse an einer **kostenlosen Beratung zu ihren Karrierezielen mit KI-Bezug** entwickeln. Jede Seite soll Unsicherheit reduzieren, eine fachlich saubere Entscheidung vorbereiten und den nächsten Schritt zur Kontaktaufnahme logisch begründen.
+## Strategisches Ziel hinter den Inhalten
+Das wirtschaftliche Ziel ist, qualifizierte Anfragen über die kostenlose Beratung zu erzeugen. Dieses Ziel darf in den öffentlichen Texten nicht plump sichtbar werden. Inhalte sollen zuerst echten Nutzen stiften: Orientierung geben, Fragen beantworten, passende Lernpfade erklären und Vertrauen aufbauen. Wenn die Inhalte hochwertig sind, soll die Anfrage zur Beratung als natürlicher nächster Schritt erscheinen.
 
-## Redaktionelle Grundregel: echte Website, nicht KI-Text
-- Texte müssen so wirken, als wären sie für eine echte professionelle Website geschrieben: klar, natürlich, fachlich präzise, semantisch stimmig und ohne generische KI-Floskeln.
-- Die Inhalte richten sich immer an die jeweilige Zielgruppe der Seite, nicht an Auftraggeber oder interne Bearbeiter. Besucherinnen und Besucher werden direkt, respektvoll und nutzerorientiert angesprochen.
-- Aussagen müssen logisch aufeinander aufbauen: Suchintention, Zielgruppe, Problem, Nutzen, Lerninhalte, Grenzen, nächster Schritt.
-- Keine erfundenen Anbieter, Preise, Zertifikate, Garantien, Erfolgsversprechen oder rechtlichen Behauptungen.
-- Wenn aktuelle Entwicklungen, rechtliche Rahmenbedingungen, Arbeitsmarkttrends oder konkrete Fakten erwähnt werden, müssen sie vorher recherchiert und mit verlässlichen Quellen abgeglichen werden.
-- Formulierungen sollen professionell, glaubwürdig und menschlich klingen: keine übertriebene Werbesprache, keine mechanischen Wiederholungen, keine sichtbaren Template-Phrasen.
+## Zielgruppenprinzip
+- Texte sprechen immer die jeweilige Zielgruppe direkt an: Fachkräfte, Führungskräfte, Quereinsteiger, Teams, HR, Marketing, Vertrieb, IT, Datenschutz, Projektleitung oder Karrierewechsler.
+- Nicht über die Website sprechen („diese Seite hilft Ihnen“), sondern über den Nutzen des Themas („warum dieser Lernpfad zu Ihrer Rolle passt“).
+- Nicht erklären, welches Ziel die Website verfolgt. Stattdessen zeigen, warum der Lernpfad, die Kompetenz oder die Beratung für die Person sinnvoll sein kann.
+- Die Leserperspektive steht vor der Anbieterperspektive: erst Problem und Orientierung, dann Nutzen, dann nächster Schritt.
 
-## Sachliche Leitplanken aus Recherche
-- Der EU AI Act ist ein relevanter Kontext für AI Literacy und verantwortungsvolle KI-Nutzung. Die Website darf daraus jedoch keine individuelle Rechtsberatung ableiten.
-- KI-Kompetenzen werden in vielen Arbeitskontexten wichtiger; Inhalte sollen deshalb rollenbezogen, anwendungsnah und risikobewusst formuliert werden.
+## Tonalität und Stil
+- Professionell, menschlich, ruhig, vertrauenswürdig und konkret.
+- Keine übertriebene Werbesprache, keine reißerischen Versprechen, keine künstlichen Superlative.
+- Keine Formulierungen, die nach KI-Template klingen: „Diese Seite hilft Ihnen“, „Warum diese Seite richtig ist“, „conversionstark“, „psychologisch optimiert“ oder ähnliche Meta-Kommentare.
+- Besser: „Warum KI Manager Weiterbildung zu Ihrem nächsten Karriereschritt passen kann“, „Wann Prompt Engineering im Arbeitsalltag hilft“, „Welche Kompetenzen Sie dafür brauchen“.
+- Sätze sollen logisch aufeinander aufbauen und semantisch präzise sein. Jeder Abschnitt braucht eine klare Funktion.
+
+## Inhaltliche Qualitätskriterien
+- Jede Seite beantwortet: Für wen ist das Thema geeignet? Welches Problem löst es? Welche Kompetenzen werden aufgebaut? Welche Grenzen gibt es? Was ist ein sinnvoller nächster Schritt?
+- Inhalte müssen fachlich wahr bleiben. Keine erfundenen Anbieter, Preise, Zertifikate, Garantien, Förderzusagen, Jobgarantien oder rechtlichen Behauptungen.
+- Aktuelle, rechtliche, technische oder arbeitsmarktbezogene Aussagen werden vor Verwendung recherchiert.
+- Der EU AI Act darf als Kontext für AI Literacy und verantwortungsvolle Nutzung erwähnt werden, aber nicht als individuelle Rechtsberatung.
 - Datenschutz, Qualitätssicherung, menschliche Verantwortung und Grenzen von KI gehören zu professionellen KI-Weiterbildungen dazu.
 
-## Konsistenzregeln
-- Jede Unterseite beantwortet sofort: Thema, Zielgruppe, Nutzen, Inhalte, Format, Ergebnis und Call-to-Action.
-- Sprache: klar, beratend, vertrauenswürdig, professionell, zielgruppenbezogen und ohne übertriebene Erfolgsversprechen.
-- Texte sollen Lust machen weiterzulesen, aber nicht künstlich emotionalisieren: Orientierung geben, Unsicherheit abbauen, Karrierechancen realistisch einordnen und konkrete Alltagssituationen beschreiben.
-- Design: dunkler Premium-Look, grüne/blaue Akzente, Kartenlayout, große Headlines, klare CTAs.
-- SEO: pro Seite genau ein H1, individuelle Meta Description, sprechende Slugs, interne Verlinkung, strukturierte Daten wo sinnvoll.
-- Conversion: oberhalb des Falzes immer Nutzenversprechen + primärer CTA zur kostenlosen Beratung + sekundärer CTA zu Inhalten oder Programmen.
-
-## Wiederkehrende Seitenstruktur
-1. Hero mit Keyword, Nutzen und Beratungs-CTA.
-2. Professionelle Einordnung: Worum es in diesem Lernpfad wirklich geht.
-3. Zielgruppe, Format, Dauer und erwarteter Nutzen.
-4. Sachliche Perspektive auf Relevanz, Verantwortung und Grenzen.
-5. Drei konkrete Lernziele.
-6. Nutzen-/Entscheidungsabschnitt mit realistischen Vertrauenssignalen.
-7. Praxisbeispiele und Beratungsimpuls.
-8. Logische interne Links zu verwandten Lernpfaden.
-9. Abschluss-CTA zum Kontaktformular.
+## Seitenstruktur für Unterseiten
+1. Hero: Thema, klare Nutzenperspektive, primärer CTA zur kostenlosen Beratung, sekundärer CTA zu Lernzielen.
+2. Passung: Warum der Lernpfad für bestimmte Rollen, Aufgaben oder Karriereziele sinnvoll sein kann.
+3. Kurzprofil: Format, Dauer, Zielgruppe, erwartetes Ergebnis.
+4. Professionelle Perspektive: Einordnung ohne Hype, mit realistischen Beispielen.
+5. Fachliche Einordnung: KI-Kompetenz, Verantwortung, Datenschutz, Qualitätsprüfung.
+6. Lernziele: drei konkrete Kompetenzfelder.
+7. Entscheidungshilfe: Warum strukturierte Weiterbildung mehr bringt als planloses Ausprobieren.
+8. Praxisbezug: typische Situationen, in denen das Thema hilft.
+9. Passende Vertiefung: logisch verwandte interne Links.
+10. Abschluss-CTA: Beratung als natürlicher nächster Schritt, nicht als Druckmittel.
 
 ## Interne Verlinkung
-- Jede Unterseite soll mindestens fünf logisch verwandte Seiten verlinken.
-- Karriere-Seiten wie KI Manager, AI Manager, KI Consultant, KI Projektleiter, KI Business Analyst und KI Transformation Manager sollen besonders stark untereinander vernetzt sein.
-- Fachbereichsseiten sollen zusätzlich auf Grundlagen, Datenschutz/Governance und passende Automatisierungs- oder Toolseiten verweisen.
+- Jede Unterseite verlinkt mindestens sechs thematisch passende Lernpfade.
+- Karriere-Seiten vernetzen sich untereinander: KI Manager, AI Manager, KI Consultant, KI Projektleiter, KI Business Analyst, KI Transformation Manager, KI Kompetenzcheck und KI Karriereberatung.
+- Fachbereichsseiten verlinken zusätzlich auf Grundlagen, Datenschutz/Governance, Data Literacy, Change Management und passende Tool- oder Automatisierungsthemen.
+- Linktexte sollen Orientierung geben und nicht nur SEO-Keywords stapeln.
+
+## CTA-Regeln
+- CTAs sollen hilfreich klingen: „Kostenlose Beratung anfragen“, „Lernpfad vergleichen“, „Mehr erfahren“.
+- Keine Druckformulierungen und keine künstliche Verknappung.
+- Die Beratung wird als Unterstützung bei der Einordnung beschrieben: Ziel, Rolle, Vorwissen, passendes Format.
+- Öffentliche Texte vermeiden Sätze wie „Das Ziel ist, dass Sie das Formular ausfüllen“. Diese Logik bleibt intern.
 
 ## Qualitätssicherung vor Veröffentlichung
-- Prüfen, ob die Seite wie eine echte Website klingt und nicht wie ein Prompt-Ergebnis.
-- Prüfen, ob die Zielgruppe direkt angesprochen wird und die Aussagen zur Suchintention passen.
-- Prüfen, ob Fachbegriffe erklärt oder in einen nachvollziehbaren Kontext gesetzt werden.
-- Prüfen, ob faktische Aussagen recherchiert oder bewusst allgemein formuliert sind.
-- Prüfen, ob der CTA zur kostenlosen Beratung natürlich aus dem Inhalt folgt.
-
-## Weiterentwicklungsnotizen für KI-Agenten
-- Bei neuen Themen zuerst Suchintention, Zielgruppe und Karriere-/Praxisziel formulieren und dann Inhalte nach obiger Struktur ergänzen.
-- Wiederkehrende Komponenten in `assets/styles.css` und `assets/main.js` wiederverwenden statt Einzellösungen zu bauen.
-- Neue Unterseiten im Ordner `themen/` erstellen und von `index.html`, `sitemap.xml` sowie passenden verwandten Seiten aus verlinken.
-- Neue oder geänderte fachliche Aussagen immer recherchieren, falls sie zeitabhängig, rechtlich, marktbezogen oder potenziell strittig sind.
-- Wenn Inhalte erweitert werden, verwandte Seiten gegenseitig intern verlinken, um thematische Cluster zu stärken.
+- Klingt der Text wie eine echte Expertenwebsite?
+- Ist die Zielgruppe klar erkennbar?
+- Ist der rote Faden nachvollziehbar: Suchintention → Passung → Nutzen → Grenzen → nächster Schritt?
+- Sind Aussagen sachlich und überprüfbar?
+- Gibt es sichtbare KI-Muster oder Meta-Kommentare? Wenn ja: umformulieren.
+- Folgt die Beratung logisch aus dem Informationsbedarf?
