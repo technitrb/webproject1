@@ -80,3 +80,10 @@ Für jedes Hauptthema sollen bei Bedarf drei Förder-Unterseiten entstehen und v
 - Keine Förderzusage, keine Rechtsberatung und keine pauschale Kostenfreiheit behaupten. Immer auf individuelle Prüfung durch zuständige Stelle hinweisen.
 - Sachbasis regelmäßig recherchieren: Bundesagentur für Arbeit für Bildungsgutschein und QCG, BMAS/ESF Plus für KOMPASS.
 - Jede Förderseite verlinkt zurück zur Hauptseite und zu den zwei anderen Förderwegen desselben Themas.
+
+
+## Unique-Content-Regeln für Förderseiten
+- Förderseiten dürfen nicht nur austauschbare Varianten sein. Jede Seite verbindet das konkrete KI-Thema mit einer klaren Zielgruppe, einem typischen Anwendungskontext und einem nachvollziehbaren Förderargument.
+- Dateinamen sollen SEO und Suchintention verbinden: `thema-kostenlos-mit-bildungsgutschein-fuer-arbeitslose.html`, `thema-qcg-weiterbildung-fuer-mitarbeiter.html`, `thema-kompass-foerderung-fuer-selbststaendige.html`.
+- Jede Förderseite braucht eine eigene Rechercheperspektive: offizielle Förderlogik plus individuelle Begründung, warum gerade dieses Thema für Wiedereinstieg, Beschäftigtensicherung oder Selbstständigkeit relevant ist.
+- Wiederholbare Bausteine sind erlaubt, aber Kernabschnitte müssen thematisch individualisiert werden: Kompetenz, Use Cases, Transfer, Unterlagen, Förderargument und CTA.
