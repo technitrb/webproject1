@@ -66,3 +66,17 @@ Das wirtschaftliche Ziel ist, qualifizierte Anfragen über die kostenlose Beratu
 - Die Inhalte bleiben sachlich korrekt und dürfen keine erfundenen Studien, Zahlen, Zertifikate oder Anbieterbehauptungen enthalten.
 - Der Abschnitt soll abwechslungsreich wirken: unterschiedliche Beispiele je nach Karriere-, Risiko-, Fachbereichs-, Strategie-, Kreativ- oder Technikthema.
 - Ziel ist Expertenniveau durch hilfreiche Einordnung, nicht durch komplizierte Sprache.
+
+
+## Förder-Unterseiten automatisch erweitern
+Für jedes Hauptthema sollen bei Bedarf drei Förder-Unterseiten entstehen und vom Hauptthema aus verlinkt werden:
+1. **Bildungsgutschein**: Zielgruppe sind arbeitslose oder arbeitssuchende Personen, die wieder einen Job finden möchten. Formulierung: „bei Bewilligung kann die Weiterbildung kostenlos beziehungsweise kostenübernommen sein“; keine Garantie behaupten.
+2. **QCG / Qualifizierungschancengesetz**: Zielgruppe sind Arbeitgeber, HR, Führungskräfte und Chefs, die sozialversicherungspflichtig Beschäftigte wegen technologischen Wandels qualifizieren und Beschäftigung sichern möchten.
+3. **KOMPASS-Förderung**: Zielgruppe sind Solo-Selbstständige, die Qualifizierung für Zukunftsfähigkeit, Angebot, Prozesse oder Krisenfestigkeit nutzen möchten.
+
+### Regeln für Förderseiten
+- Immer das Thema der übergeordneten Seite aufgreifen und mit dem Förderweg verbinden.
+- Förderseiten erklären Zielgruppe, Nutzen, Vorbereitung, typische Unterlagen/Argumente und sinnvolle nächste Schritte.
+- Keine Förderzusage, keine Rechtsberatung und keine pauschale Kostenfreiheit behaupten. Immer auf individuelle Prüfung durch zuständige Stelle hinweisen.
+- Sachbasis regelmäßig recherchieren: Bundesagentur für Arbeit für Bildungsgutschein und QCG, BMAS/ESF Plus für KOMPASS.
+- Jede Förderseite verlinkt zurück zur Hauptseite und zu den zwei anderen Förderwegen desselben Themas.
